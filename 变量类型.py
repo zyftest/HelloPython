@@ -1,6 +1,6 @@
 # !/usr/bin/python
 # -*- coding: UTF-8 -*-
-"""
+
 counter = 100  # 赋值整型变量
 miles = 1000.0  # 浮点型
 name = "John"  # 字符串
@@ -41,7 +41,7 @@ tinydict = {'name': 'john', 'code': 6734, 'dept': 'sales'}
 print(tinydict)  # 输出完整的字典
 print(tinydict.keys())  # 输出所有键
 print(tinydict.values())  # 输出所有值
-"""
+
 print(int())  # int method default zero
 print(int('13'))
 print(oct(10))  # 8进制转换

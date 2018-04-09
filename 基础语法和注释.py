@@ -39,7 +39,7 @@ if 1 > 2 :
     print ("Answer"),
     print("true")
 else :
-    print ("Answer"), print ("False")
+    print ("Answer")
 
 word = 'word'
 sentence = "这是一个句子。"
